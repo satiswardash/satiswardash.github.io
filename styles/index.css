@@ -1,0 +1,10 @@
+body {
+  color: 'black';
+}
+
+.style-large-header_title {
+    color: black;
+    font-size: 67px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;    
+}
