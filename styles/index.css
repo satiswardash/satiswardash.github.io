@@ -1,9 +1,9 @@
 body {
-  color: 'black';
+  color: black;
 }
 
-.style-large-header_title {
-    color: black;
+.style-large-header-title {
+    color: white;
     font-size: 67px;
     text-align: center;
     font-family: 'Raleway', sans-serif;    
